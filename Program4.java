@@ -29,7 +29,8 @@ import java.util.Scanner; //This imports the console scanner that reads user inp
             sum = num1+num2+num3+num4;
             System.out.println("The sum of the numbers is" + sum);
             
-            
+            //Find the average
+            double average = 0.0;//implement your code here;
             //Calculate
             
             //Output
